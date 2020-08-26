@@ -1,4 +1,6 @@
-# SimMat2019-2
+﻿# SimMat2019-2
+by cynth
+
 En este repositorio se encuentran las notas para el curso de simulación matemática en el primer semestre del 2019. En caso de requerirse material adicional, será proporcionado en las clases.
 
 Este curso consiste de tres módulos. 
